@@ -3,6 +3,11 @@ require_once "../../maincore.php";
 require_once THEMES."templates/header.php";
 include INFUSIONS."faq_db/includes/faq_core.php";
 
+/**
+ * 
+ * Test für Github
+ * 
+ **/
 
 if (iMEMBER) {
     if (isset($_GET['delete']) && isset($_GET['q_id']) && isnum($_GET['q_id'])) {
