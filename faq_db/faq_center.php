@@ -5,7 +5,7 @@ include INFUSIONS."faq_db/includes/faq_core.php";
 
 /**
  * 
- * Test für Github 2
+ * Test für Github Nummer 2
  * 
  **/
 
